@@ -64,7 +64,7 @@ function SidebarBody({
           </div>
           <div>
             <h2 className="text-lg font-bold tracking-tight text-white">
-              HaliSaha<span className="text-emerald-500">+</span>
+              TikiTaka<span className="text-emerald-500">+</span>
             </h2>
             <p className="text-[10px] uppercase tracking-wider text-slate-500">
               İşletme Paneli

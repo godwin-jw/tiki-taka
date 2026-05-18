@@ -60,7 +60,7 @@ export default async function LoginPage() {
             <Sparkles className="h-5 w-5 text-emerald-400" />
           </div>
           <CardTitle className="text-2xl font-bold tracking-tight text-white">
-            HaliSaha<span className="text-emerald-500">+</span> İşletme
+            TikiTaka<span className="text-emerald-500">+</span> İşletme
           </CardTitle>
           <CardDescription className="text-slate-400">
             Saha yönetim paneline erişmek için giriş yapın
